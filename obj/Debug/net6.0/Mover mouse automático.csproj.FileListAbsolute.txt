@@ -1,0 +1,17 @@
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\Mover mouse automático.exe
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\Mover mouse automático.deps.json
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\Mover mouse automático.runtimeconfig.json
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\Mover mouse automático.dll
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\ref\Mover mouse automático.dll
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\Mover mouse automático.pdb
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.csproj.AssemblyReference.cache
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.AssemblyInfoInputs.cache
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.AssemblyInfo.cs
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.csproj.CoreCompileInputs.cache
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.dll
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\ref\Mover mouse automático.dll
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.pdb
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.genruntimeconfig.cache
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\System.Drawing-dotnet-core.dll
+C:\Projetos\Console\Mover mouse automático\obj\Debug\net6.0\Mover mouse automático.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\Mover mouse automático.exe
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\Mover mouse automático.dll
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\Mover mouse automático.deps.json
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\Mover mouse automático.runtimeconfig.json
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\Mover mouse automático.pdb
+C:\Projetos\Console\Mover mouse automático\bin\Debug\net6.0\publish\System.Drawing-dotnet-core.dll

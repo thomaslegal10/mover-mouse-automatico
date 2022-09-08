@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "du43Fy/efUgo4HdRtkzymguMQdvNka15ynM48sZkKM+ZJr/w2Zy6CVWsQ5s0A2sJ5zxgQnp9fjYRmYQE5jUlZw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Console\\Mover mouse automático\\Mover mouse automático.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\system.drawing-dotnet-core\\1.2.3\\system.drawing-dotnet-core.1.2.3.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
